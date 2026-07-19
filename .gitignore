@@ -6,7 +6,6 @@ Cargo.lock
 *.wasm
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -26,3 +25,7 @@ ASSUMPTIONS.md
 # Fuzz test snapshots (auto-generated, partial runs)
 test_snapshots/fuzz/
 test_snapshots
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
